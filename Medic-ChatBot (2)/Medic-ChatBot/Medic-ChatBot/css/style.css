@@ -1,0 +1,8 @@
+/* Add these classes in your Tailwind CSS file or HTML file */
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
